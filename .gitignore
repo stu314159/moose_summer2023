@@ -265,3 +265,5 @@ share/
 # Ignore vscode local parameters
 .vscode/*
 
+fontconfig/*
+*.yaml
